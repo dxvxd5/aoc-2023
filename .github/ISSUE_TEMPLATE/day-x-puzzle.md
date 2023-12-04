@@ -7,4 +7,6 @@ assignees: dxvxd5
 
 ---
 
+**Notable information**
+
 [Link to puzzle]()
