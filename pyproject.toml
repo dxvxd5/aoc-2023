@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "aoc-2023"
 version = "0.1.0"
-description = "Solving the Advent of Code 2023 puzzles one day at the time 🚀"
+description = "Solving the Advent of Code 2023 puzzles one day at a time 🚀"
 authors = ["David Kragbé <42718923+dxvxd5@users.noreply.github.com>"]
 readme = "README.md"
 
