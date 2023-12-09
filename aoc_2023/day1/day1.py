@@ -3,7 +3,6 @@ from pathlib import Path
 from aoc_2023.utils import PUZZLE_VARIANT, PuzzleSolver
 
 PUZZLE_INPUT = str(Path(__file__).parent.absolute().joinpath("day1_puzzle_input.txt"))
-# PUZZLE_INPUT = str(Path(__file__).parent.absolute().joinpath("input.txt"))
 
 
 class Day1PuzzleSolver(PuzzleSolver):
